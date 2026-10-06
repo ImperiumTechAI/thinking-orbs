@@ -30,7 +30,8 @@
     "./package.json": "./package.json"
   },
   "files": [
-    "dist"
+    "dist",
+    "LICENSE-MIT"
   ],
   "sideEffects": false,
   "scripts": {
@@ -71,8 +72,11 @@
     "animation",
     "dark-mode"
   ],
-  "author": "Jakub Antalik",
-  "license": "MIT",
+  "author": "ImperiumTechAI",
+  "contributors": [
+    "Jakub Antalik (original author, MIT — see LICENSE-MIT)"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jakubantalik/thinking-orbs.git"

@@ -84,4 +84,8 @@ All other `<canvas>` props (`className`, `style`, `data-*`, …) pass through.
 
 ## License
 
-MIT © Jakub Antalik
+Proprietary © ImperiumTechAI — all rights reserved for the changes and additions made in this fork. See [LICENSE](LICENSE).
+
+## Credits
+
+This is a fork of [thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) by Jakub Antalik. The original work remains under the MIT License, © Jakub Antalik — see [LICENSE-MIT](LICENSE-MIT).
